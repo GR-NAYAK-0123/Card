@@ -4,3 +4,6 @@ This is my first gihub respository
 Author - Gyan Ranjan Nayak
 <br/>
 Author's Nickname - Raja
+<br/>
+This is my second day at GitHub
+
